@@ -58,3 +58,26 @@ CAD Technician/Drafter, Great Plains Communications (2021–2022)
 Direct Support Professional, Autism Center of Nebraska (2017–2021)
 
     Built meaningful relationships and encouraged client independence through structured, goal-oriented activities.
+
+🎓 Education
+
+    BSc Data Science, Bellevue University, NE (Expected March 2025)
+        GPA: 3.8 | Relevant Courses: Python, SQL, Predictive Analytics, Big Data, Text Analytics, ArcGIS
+
+    AAS Architectural Design Technology, Metropolitan Community College, NE (Graduated 2020)
+        GPA: 3.55 | Relevant Courses: AutoCAD, Revit Essentials, Structural Design
+
+    AS Pre-Civil Engineering, Metropolitan Community College, NE (Graduated 2020)
+        GPA: 3.55 | Focus: Advanced Physics, Calculus, Differential Equations
+
+🌱 Learning Goals
+
+    Develop expertise in machine learning for GIS applications.
+    Gain advanced proficiency in cloud computing (e.g., AWS, Google Cloud).
+    Master real-time data visualization for geospatial analytics.
+
+👥 Community Involvement
+
+    Active member of the Association of Burkina Nebraska soccer team, fostering community through sports.
+    Fitness enthusiast focusing on cardio and strength training.
+    Volunteering at food serving at open door mission
