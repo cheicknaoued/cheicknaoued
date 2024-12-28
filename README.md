@@ -43,3 +43,18 @@ Description: A repository showcasing 2D/3D models built using Revit and AutoCAD.
 
     Highlights: Residential and commercial blueprints, building system layouts, and structural designs.
     Status: Published
+🌟 Experience Highlights
+GIS Technician II, Great Plains Communications (2023–Present)
+
+    Draw fiber and copper ducts using ArcGIS, Vetro FiberMap, and MapWise.
+    Verified address data and maintained GIS records in Salesforce.
+    Collaborated on post-construction work orders and updated map files.
+
+CAD Technician/Drafter, Great Plains Communications (2021–2022)
+
+    Created and reconciled GPS data for telecommunications maps.
+    Developed precise blueprints and maintained CAD systems.
+
+Direct Support Professional, Autism Center of Nebraska (2017–2021)
+
+    Built meaningful relationships and encouraged client independence through structured, goal-oriented activities.
