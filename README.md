@@ -58,3 +58,6 @@ CAD Technician/Drafter, Great Plains Communications (2021–2022)
     Active member of the Association of Burkina Nebraska soccer team, fostering community through sports.
     Fitness enthusiast focusing on cardio and strength training.
     Volunteering at food serving at open door mission
+
+<font size="5">This is large text</font>
+
