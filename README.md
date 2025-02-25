@@ -59,5 +59,5 @@ CAD Technician/Drafter, Great Plains Communications (2021–2022)
     Fitness enthusiast focusing on cardio and strength training.
     Volunteering at food serving at open door mission
 
-<font size="5">This is large text</font>
+<font size="20">
 
