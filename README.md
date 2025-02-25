@@ -17,13 +17,6 @@ GIS and Drafting
     GIS Tools: ArcGIS Pro, ArcGIS Online, Vetro FiberMap, MapWise, Salesforce
     Drafting Software: Autodesk Revit (Architecture and Structure), AutoCAD, Bluebeam Revu
 
-Other Technical Skills
-
-    Mathematics: Trigonometry, Calculus I-III, Differential Equations
-    Physics and Engineering Principles
-    Telecommunications Infrastructure Mapping
-
-    Fiber Network Mapping Automation
 
 Description: Automating fiber duct and cable mapping in ArcGIS using Python scripts to streamline workflows for GIS teams.
 
@@ -37,12 +30,6 @@ Description: Leveraging historical sales and customer data to predict service de
     Tech Stack: Python, SQL, Scikit-learn
     Status: In progress (as part of the Data Science program at Bellevue University)
 
-3. Architectural Design Portfolio
-
-Description: A repository showcasing 2D/3D models built using Revit and AutoCAD.
-
-    Highlights: Residential and commercial blueprints, building system layouts, and structural designs.
-    Status: Published
 🌟 Experience Highlights
 GIS Technician II, Great Plains Communications (2023–Present)
 
@@ -55,10 +42,6 @@ CAD Technician/Drafter, Great Plains Communications (2021–2022)
     Created and reconciled GPS data for telecommunications maps.
     Developed precise blueprints and maintained CAD systems.
 
-Direct Support Professional, Autism Center of Nebraska (2017–2021)
-
-    Built meaningful relationships and encouraged client independence through structured, goal-oriented activities.
-
 🎓 Education
 
     BSc Data Science, Bellevue University, NE (Expected March 2025)
@@ -69,12 +52,6 @@ Direct Support Professional, Autism Center of Nebraska (2017–2021)
 
     AS Pre-Civil Engineering, Metropolitan Community College, NE (Graduated 2020)
         GPA: 3.55 | Focus: Advanced Physics, Calculus, Differential Equations
-
-🌱 Learning Goals
-
-    Develop expertise in machine learning for GIS applications.
-    Gain advanced proficiency in cloud computing (e.g., AWS, Google Cloud).
-    Master real-time data visualization for geospatial analytics.
 
 👥 Community Involvement
 
