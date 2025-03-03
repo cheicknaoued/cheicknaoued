@@ -1,7 +1,7 @@
 # 🛠️ Technical Skills
 # Programming & Data Science
 
-    Languages: Python, SQL, R
+    ## Languages: Python, SQL, R
     Libraries/Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
     Tools: Jupyter Notebooks, R-Studio
     Specialties: Predictive Analytics, Big Data, Text Analytics, Data Visualization
