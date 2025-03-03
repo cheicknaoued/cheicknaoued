@@ -29,7 +29,7 @@
 ##   AS Pre-Civil Engineering, Metropolitan Community College, NE (Graduated 2020)
 ##        GPA: 3.55 | Focus: Advanced Physics, Calculus, Differential Equations
 
-👥 Community Involvement
+# 👥 Community Involvement
 
 ##    Active member of the Association of Burkina Nebraska soccer team, fostering community through sports.
 ##    Fitness enthusiast focusing on cardio and strength training.
